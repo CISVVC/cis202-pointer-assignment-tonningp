@@ -16,6 +16,9 @@ struct Course
    std::vector<Student*> students;
 };
 
+void enroll(Course *course,Student *student)
+{
+}
 
 int main()
 {
